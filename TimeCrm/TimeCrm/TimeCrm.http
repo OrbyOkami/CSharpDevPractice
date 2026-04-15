@@ -1,0 +1,6 @@
+@TimeCrm_HostAddress = http://localhost:5147
+
+GET {{TimeCrm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
